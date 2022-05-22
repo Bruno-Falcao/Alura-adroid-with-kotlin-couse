@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Orgs</string>
+    <string name="bot_o_para_criac_o_de_novos_produtos">Botão para criacão de novos produtos</string>
+    <string name="novo_produto">NOVO PRODUTO</string>
+</resources>
